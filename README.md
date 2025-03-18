@@ -1,2 +1,2 @@
 # Gyakorlas
-# böngészőből írtam
+# böngészőből írtam :)
